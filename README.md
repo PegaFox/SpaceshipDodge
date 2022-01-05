@@ -12,6 +12,7 @@ chmod +x INSTALL.sh
 
 ./INSTALL.sh
 
+
 to uninstall:
 
 cd SpaceshipDodge
@@ -19,6 +20,7 @@ cd SpaceshipDodge
 chmod +x UNINSTALL.sh
 
 ./UNINSTALL.sh
+
 
 to update:
 well, that's a work in progress so, for now, try uninstalling and reinstalling
