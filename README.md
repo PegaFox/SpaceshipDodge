@@ -13,6 +13,7 @@ chmod +x INSTALL.sh
 ./INSTALL.sh
 
 
+
 to uninstall:
 
 cd SpaceshipDodge
@@ -20,6 +21,7 @@ cd SpaceshipDodge
 chmod +x UNINSTALL.sh
 
 ./UNINSTALL.sh
+
 
 
 to update:
