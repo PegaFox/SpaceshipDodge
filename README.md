@@ -15,7 +15,9 @@ chmod +x INSTALL.sh
 to uninstall:
 
 cd SpaceshipDodge
+
 chmod +x UNINSTALL.sh
+
 ./UNINSTALL.sh
 
 to update:
